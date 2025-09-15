@@ -121,7 +121,7 @@ export default function Services() {
               We follow a proven methodology to ensure your project&apos;s success
             </p>
           </div>
-
+&apos;
           <div className="grid md:grid-cols-4 gap-8">
             <div className="text-center">
               <div className="bg-primary-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
@@ -165,7 +165,7 @@ export default function Services() {
             Ready to Get Started?
           </h2>
           <p className="text-xl text-primary-100 mb-8 max-w-2xl mx-auto">
-            Let's discuss your project and find the perfect solution for your business needs.
+            Let&apos;s discuss your project and find the perfect solution for your business needs.
           </p>
           <Link
             href="/contact"
