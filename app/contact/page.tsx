@@ -94,8 +94,8 @@ export default function Contact() {
             Contact Us
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Ready to start your next project? We'd love to hear from you. 
-            Get in touch and let's discuss how we can help bring your vision to life.
+            Ready to start your next project? We&apos;d love to hear from you. 
+            Get in touch and let&apos;s discuss how we can help bring your vision to life.
           </p>
         </div>
       </section>
@@ -112,7 +112,7 @@ export default function Contact() {
               
               {submitStatus === 'success' && (
                 <div className="mb-6 p-4 bg-green-100 border border-green-400 text-green-700 rounded">
-                  Thank you for your message! We'll get back to you within 24 hours.
+                  Thank you for your message! We&apos;ll get back to you within 24 hours.
                 </div>
               )}
 
@@ -133,8 +133,8 @@ export default function Contact() {
                   Get in touch
                 </h2>
                 <p className="text-lg text-gray-600 mb-8">
-                  We're here to help you succeed. Reach out to us through any of the channels below, 
-                  and we'll respond as quickly as possible.
+                  We&apos;re here to help you succeed. Reach out to us through any of the channels below, 
+                  and we&apos;ll respond as quickly as possible.
                 </p>
               </div>
 

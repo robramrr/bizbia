@@ -74,7 +74,7 @@ export default function Services() {
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             We offer comprehensive digital solutions to help your business thrive in the modern world. 
-            From web development to AI integration, we've got you covered.
+            From web development to AI integration, we&apos;ve got you covered.
           </p>
         </div>
       </section>
@@ -118,7 +118,7 @@ export default function Services() {
               Our Process
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              We follow a proven methodology to ensure your project's success
+              We follow a proven methodology to ensure your project&apos;s success
             </p>
           </div>
 

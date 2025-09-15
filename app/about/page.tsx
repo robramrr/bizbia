@@ -26,7 +26,7 @@ export default function About() {
             About Us
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            We're a passionate team of developers, designers, and AI specialists dedicated to 
+            We&apos;re a passionate team of developers, designers, and AI specialists dedicated to 
             transforming businesses through innovative digital solutions.
           </p>
         </div>
@@ -187,7 +187,7 @@ export default function About() {
             Ready to Work With Us?
           </h2>
           <p className="text-xl text-primary-100 mb-8 max-w-2xl mx-auto">
-            Let's discuss how we can help bring your vision to life with our expertise and passion.
+            Let&apos;s discuss how we can help bring your vision to life with our expertise and passion.
           </p>
           <Link
             href="/contact"

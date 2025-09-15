@@ -91,7 +91,7 @@ export default function Home() {
             Ready to Transform Your Business?
           </h2>
           <p className="text-xl text-primary-100 mb-8 max-w-2xl mx-auto">
-            Let's discuss how we can help you achieve your digital goals with cutting-edge solutions.
+            Let&apos;s discuss how we can help you achieve your digital goals with cutting-edge solutions.
           </p>
           <Link
             href="/contact"
