@@ -116,12 +116,13 @@ export default function Contact() {
                 </div>
               )}
 
+              <div style={{ width: "100%", height: "500px" }}>
               <FilloutStandardEmbed
                 filloutId="kfX8PT8bBTus"
                 inheritParameters
                 dynamicResize
-                style={{ width: "100%", height: "500px" }}
               />
+              </div>
 
             </div>
 
